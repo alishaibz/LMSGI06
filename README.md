@@ -24,3 +24,8 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 
 **8.** Creació, dins el directori creat anteriorment, de dos fitxers .json en els quals s'emmagatzemen tres notícies en casascun: data1.json i data2.json.
 
+**9.** Validació dels fitxers .json al [validador web de JSON](https://jsonlint.com/), obtenint al principi errors per l'ús de doble cometa dins la descripció de les notícies.
+
+**10.** Modificació de la codificació dels fitxers .json per eliminar els errors detectats anteriorment.
+
+**11.** Validació de nou dels fitxers .json al [validador web de JSON](https://jsonlint.com/), obtenint, aquesta vegada, resultats positius.
