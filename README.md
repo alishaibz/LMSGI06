@@ -29,3 +29,7 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 **10.** Modificació de la codificació dels fitxers .json per eliminar els errors detectats anteriorment.
 
 **11.** Validació de nou dels fitxers .json al [validador web de JSON](https://jsonlint.com/), obtenint, aquesta vegada, resultats positius.
+
+**12.** Consulta del repositori exemple donat pel professor: [https://github.com/urbinapro/jsxml](https://github.com/urbinapro/jsxml).
+
+**13.** Creació del fitxer **news.html** al directori arrel, en el qual s'implementa la part HTML corresponent de l'examen amb autocorrecció.
