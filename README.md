@@ -16,7 +16,7 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 
 **4.** Creació del subdirectori "img" dins del directori arrel de treball.
 
-**5.** Recerca i emmagatzematge, en el subdirectori creat anteriorment, d'una imatge per a cada notícia i d'una altra imatge per emprar-la com a logo de la web.
+**5.** Recerca i emmagatzematge, en el subdirectori creat anteriorment, d'una imatge per a cada notícia, una altra imatge per emprar-la com a logo de la web i dues més per emprar com a publicitat.
 
 **6.** Optimització de les imatges anteriors a la pàgina web [webresizer.com](http://webresizer.com/).
 
@@ -52,7 +52,7 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 
 **22.** Creació i edició, dins el subdirectori creat anteriorment, del fitxer **rss.xml**, en el qual es codifiquen les notícies de la portada de la meva web en RSS.
 
-**23.** Modificación del fitxer **news.html** per incloure-hi el **rss.xml**.
+**23.** Modificació del fitxer **news.html** per incloure-hi el **rss.xml**.
 
 **24.** Comprobació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla des d'un ordinador i un dispositiu mòbil.
 
