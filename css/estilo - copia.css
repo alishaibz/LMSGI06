@@ -46,11 +46,11 @@ body {
 	margin-bottom: 20px;
 }
 
-.row {
+div.row {
   	display: flex;
 }
 
-.col-lg-4, .noticia1{
+div.col-lg-4, .noticia1 {
 	background-color: white;
 	margin: 5px;
 	border-style: solid;
@@ -84,6 +84,9 @@ body {
   	color: black;
 }
 
+div.col-lg-12 {
+	text-align: center;
+}
 
 .btn {
         background: #ffd11a;
@@ -140,48 +143,6 @@ body {
  	margin: 0;
 }
 
-        .navbar-header {
-                float: none;
-        }
-        .navbar-toggle {
-                display: block;
-        }
-        .navbar-collapse {
-                border-top: 1px solid transparent;
-                box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
-        }
-        .navbar-collapse.collapse {
-                display: none!important;
-        }
-        .navbar-collapse.collapse.in {
-            display: block!important;
-        }
-        .navbar-nav {
-                float: none!important;
-                margin: 7.5px -15px;
-        }
-        .navbar-nav>li {
-                float: none;
-        }
-        .navbar-nav>li>a {
-                padding-top: 10px;
-                padding-bottom: 10px;
-        }
-    .navbar-form {
-        padding: 10px 15px;
-        margin-top: 8px;
-        margin-right: -15px;
-        margin-bottom: 8px;
-        margin-left: -15px;
-        border-top: 1px solid transparent;
-        border-bottom: 1px solid transparent;
-        -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
-        box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
-        width:auto;
-        float:none!important;
-    }
-
-
 #logo {
 	height: 25px;
  	width: 25px;
@@ -211,9 +172,11 @@ body {
 	margin-bottom: 20px;
 }
 
+div.row {
+  	display: flex;
+}
 
-
-.col-lg-4, .noticia1{
+div.col-lg-4, .noticia1 {
 	background-color: white;
 	margin: 5px;
 	border-style: solid;
@@ -230,13 +193,12 @@ body {
 }
 
 .pic_div {
-	width: 65%;
-  	height: 140px;
+	width: 95%;
+  	height: 120px;
   	overflow: hidden;
   	margin: 0 auto;
   	padding: 0;
   	position: relative;
-	margin-top: 10px;
 }
 
 .news_pic {
@@ -248,6 +210,9 @@ body {
   	color: black;
 }
 
+div.col-lg-12 {
+	text-align: center;
+}
 
 .btn {
         background: #ffd11a;
