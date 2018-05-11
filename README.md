@@ -75,4 +75,4 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 
 **31.** Obtenció de URL de Rawgit del projecte LMSGI06: [https://rawgit.com/alishaibz/LMSGI06/master/news.html](https://rawgit.com/alishaibz/LMSGI06/master/news.html).
 
-Nota final: El meu projecte compleix tots els requeriments demanats però amb l'inconvenient que en pantalles de mida mitjana tant la barra de navegació com el tamany de les notícies no s'observen regulars i homogènies.
+**Nota final:** El meu projecte compleix tots els requeriments demanats però amb l'inconvenient que en pantalles de mida mitjana tant la barra de navegació com el tamany de les notícies no s'observen regulars i homogènies.
