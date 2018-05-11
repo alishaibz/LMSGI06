@@ -1,0 +1,289 @@
+/* Aspecte per ordinadors */
+/*****************************************/
+@media(min-width:961px) {
+
+body {
+	background-color: #e6e6e6;
+}
+
+.jumbotron {
+	font-family: 'Patrick Hand SC';
+        background-color: #ffd11a;
+ 	margin: 0;
+}
+
+.navbar {
+ 	margin: 0;
+}
+
+#logo {
+	height: 25px;
+ 	width: 25px;
+	margin: auto;
+}
+
+.publi_derecha {
+	position: fixed;
+	right: 0;
+	width: 360px;
+}
+
+#publider {
+    	width: 336px;
+	height: 250px;
+	margin-right: 12px;
+    	margin-left: 12px;
+	margin-top: 10px;
+}
+
+.publi_arriba {
+	display: none;
+}
+
+#news_cont {
+	width: calc(100% - 360px);
+	margin-right: 7px;
+	margin-left: 7px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.row {
+  	display: flex;
+}
+
+.col-md-4, .noticia1{
+	background-color: white;
+	margin: 5px;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 1px;
+    	border-radius: 5px;
+}
+
+#noticia {
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.pic_div {
+	width: 95%;
+  	height: 120px;
+  	overflow: hidden;
+  	margin: 0 auto;
+  	padding: 0;
+  	position: relative;
+}
+
+.news_pic {
+ 	width: 100%;
+	margin: 5px;
+}
+
+.caption {
+  	color: black;
+}
+
+
+.btn {
+        background: #ffd11a;
+        color: black;
+}
+
+.btn:hover{
+        background: grey;
+        color: black;
+}
+
+
+footer {
+	clear: both;
+	font-family: 'Patrick Hand SC';
+	font-size: 20px;
+        background-color: #ffd11a;
+	text-align: center;
+}
+
+.footer-links {
+	margin-top: 10px;
+}
+
+
+.footer-links li {
+   	list-style-type: none;
+   	display: inline;
+   	padding-right: 20px;
+}
+
+.footer-links li a{
+	text-decoration: none;
+}
+
+
+}
+
+
+/* Aspecte per dispositius mòbils */
+/*****************************************/
+@media(max-width:960px) {
+
+body {
+	background-color: #e6e6e6;
+}
+
+.jumbotron {
+	font-family: 'Patrick Hand SC';
+        background-color: #ffd11a;
+ 	margin: 0;
+}
+
+
+.navbar {
+ 	margin: 0;
+}
+
+/* Modificació del breakpoint del navbar */
+        .navbar-header {
+                float: none;
+        }
+        .navbar-toggle {
+                display: block;
+        }
+        .navbar-collapse {
+                border-top: 1px solid transparent;
+                box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+        }
+        .navbar-collapse.collapse {
+                display: none!important;
+        }
+        .navbar-collapse.collapse.in {
+            display: block!important;
+        }
+        .navbar-nav {
+                float: none!important;
+                margin: 7.5px -15px;
+        }
+        .navbar-nav>li {
+                float: none;
+        }
+        .navbar-nav>li>a {
+                padding-top: 10px;
+                padding-bottom: 10px;
+        }
+    .navbar-form {
+        padding: 10px 15px;
+        margin-top: 8px;
+        margin-right: -15px;
+        margin-bottom: 8px;
+        margin-left: -15px;
+        border-top: 1px solid transparent;
+        border-bottom: 1px solid transparent;
+        -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
+        width:auto;
+        float:none!important;
+    }
+/* Final de modificació del breakpoint del navbar */
+
+#logo {
+	height: 25px;
+ 	width: 25px;
+	margin: auto;
+}
+
+
+.publi_derecha {
+	display: none;
+}
+
+.publi_arriba {
+	display: block;
+	height: 90px;
+}
+
+
+#publiarri {
+    	width: 728px;
+	height:90px;
+}
+
+#news_cont {
+	margin-right: 7px;
+	margin-left: 7px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.col-md-4, .noticia1{
+	background-color: white;
+	margin: 2px;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 1px;
+    	border-radius: 5px;
+}
+
+#noticia {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.pic_div {
+	width: 70%;
+  	height: 90px;
+  	overflow: hidden;
+  	margin: 0 auto;
+  	padding: 0;
+  	position: relative;
+	margin-top: 10px;
+}
+
+.news_pic {
+ 	width: 100%;
+	margin: 5px;
+}
+
+.caption {
+  	color: black;
+}
+
+
+.btn {
+        background: #ffd11a;
+        color: black;
+}
+
+.btn:hover{
+        background: grey;
+        color: black;
+}
+
+
+footer {
+	clear: both;
+	font-family: 'Patrick Hand SC';
+	font-size: 20px;
+        background-color: #ffd11a;
+	text-align: center;
+}
+
+.footer-links {
+	margin-top: 10px;
+}
+
+.footer-links li {
+   	list-style-type: none;
+   	display: inline;
+   	padding-right: 20px;
+}
+
+.footer-links li a{
+	text-decoration: none;
+}
+
+
+}
