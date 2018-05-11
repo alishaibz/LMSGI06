@@ -52,18 +52,22 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 
 **22.** Creació i edició, dins el subdirectori creat anteriorment, del fitxer **rss.xml**, en el qual es codifiquen les notícies de la portada de la meva web en RSS.
 
-**23.** Modificació del fitxer **news.html** per incloure-hi el **rss.xml**.
+**23.** Validació del fitxer RSS al [validador web de RSS](https://validator.w3.org/feed/).
 
-**24.** Comprobació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla des d'un ordinador i un dispositiu mòbil.
+**24.** Modificació del fitxer **news.html** per incloure-hi el **rss.xml**.
 
-**25.** Validació del fitxer .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu (només warnings referents als títols de tipus h3 que s'han deixat buits per carregar les dades des de l'arxiu XML).
+**25.** Comprobació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla des d'un ordinador i un dispositiu mòbil. Nota: Es detecta que en tamanys mitjans la barra de navegació i el tamany de les notícies no es homogeni. Per falta de temps no es pot resoldre aquest inconvenient.
 
-**26.** Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+**26.** Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
 
-**27.** Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu (només warnings referents a variables declarades diverses vegades ja que s'empren dins de diferents funcions).
+**27.** Validació del fitxer .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
-**28.** Creació d'un nou repositori a Github, [**LMSGI06**](https://github.com/alishaibz/LMSGI06).
+**28.** Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu.
+
+**29.** Creació d'un nou repositori a Github, [**LMSGI06**](https://github.com/alishaibz/LMSGI06).
     
-**29.** Pujada dels arxius corresponents a la tasca al nou repositori, **LMSGI06**.
+**30.** Pujada dels arxius corresponents a la tasca al nou repositori, **LMSGI06**.
 
-**30.** Obtenció de URL de Rawgit del projecte LMSGI06: [https://rawgit.com/alishaibz/LMSGI06/master/news.html](https://rawgit.com/alishaibz/LMSGI06/master/news.html).
+**31.** Obtenció de URL de Rawgit del projecte LMSGI06: [https://rawgit.com/alishaibz/LMSGI06/master/news.html](https://rawgit.com/alishaibz/LMSGI06/master/news.html).
+
+Nota final: El meu projecte compleix tots els requeriments demanats però amb l'inconvenient que en pantalles de mida mitjana tant la barra de navegació com el tamany de les notícies no s'observen regulars i homogènies.
