@@ -11,6 +11,11 @@ Per a la realització del projecte LMSGI06 de l'assignatura **_Llenguatge de Mar
 **1.** Selecció del tema de la pàgina web de notícies: sèries de televisió. 
    
 **2.** Realització d'esquema de maquetació.
+   * Per a ordinadors:
+<img src="/img/Diseño_PC.jpg">
+
+   * Per a dispositius mòbils:
+<img src="/img/Diseño_Movil.jpg">
 
 **3.** Recerca per Internet de nou notícies sobre sèries de TV.
 
